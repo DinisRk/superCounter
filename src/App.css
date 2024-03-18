@@ -1,0 +1,93 @@
+#root{
+    margin: auto;
+}
+
+label{
+font-weight: bold;
+font-size: xx-large;
+}
+
+.displayer{
+    text-align: center;
+}
+
+.results{
+    margin-top: 5%;
+    padding: 20px;
+    color: black;
+
+}
+
+
+.first{
+    background-color:blueviolet;
+    padding: 10px 20px;
+    margin-right: 100px;
+    display: inline-block;
+
+}
+
+.second{
+    background-color:blueviolet;
+    padding: 10px 20px;
+    margin-right: 100px;
+    display: inline-block;
+}
+
+.third{
+    background-color:blueviolet;
+    padding: 10px 20px;
+    margin-right: 100px;
+    display: inline-block;
+}
+
+.fourth{
+    background-color:blueviolet;
+    padding: 10px 20px;
+    margin-right: 100px;
+    display: inline-block;
+}
+
+.colorS{
+    margin-bottom: 5%;
+    margin-left: 42.5%;
+    display: inline-block;
+
+}
+
+.blue {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 0 5px; /* Agrega margen horizontal de 5px y margen vertical de 0 */
+    border-radius: 50%;
+    border: 2px solid #000; /* Cambia el color del borde si lo deseas */
+}
+
+.red {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 0 5px; /* Agrega margen horizontal de 5px y margen vertical de 0 */
+    border-radius: 50%;
+    border: 2px solid #000; /* Cambia el color del borde si lo deseas */
+}
+
+.yellow {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 0 5px; /* Agrega margen horizontal de 5px y margen vertical de 0 */
+    border-radius: 50%;
+    border: 2px solid #000; /* Cambia el color del borde si lo deseas */
+}
+
+.green {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 0 5px; /* Agrega margen horizontal de 5px y margen vertical de 0 */
+    border-radius: 50%;
+    border: 2px solid #000; /* Cambia el color del borde si lo deseas */
+}
+
